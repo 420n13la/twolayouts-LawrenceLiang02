@@ -1,0 +1,41 @@
+*{box-sizing: border-box;}
+html{
+  height: 100%;
+  width: 100%;
+}
+body{
+  font-family: 'Special Elite', cursive;
+  height: 100%;
+  margin: 0px;
+  text-align: center;
+}
+
+#leftside{
+  width: 50%;
+  float: left;
+  height: 100%;
+  background-color: gold;
+}
+
+.textl{
+  border: 3px solid DarkSlateGray;
+  display: inline-block;
+  margin: 7em auto;
+  color: DarkSlateGray;
+  padding: 1em;
+}
+
+#rightside{
+  width: 50%;
+  float: right;
+  height: 100%;
+  background-color: teal;
+}
+
+.textr{
+  border: 3px solid Ivory;
+  display: inline-block;
+  margin: 7em auto;
+  color: Ivory;
+  padding: 1em;
+}
