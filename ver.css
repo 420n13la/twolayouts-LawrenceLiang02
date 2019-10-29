@@ -21,7 +21,7 @@ nav{
 }
 
 h1{
-  color: red;
+  color: white;
   background-color: black;
   transparency: 0.5;
 }
@@ -33,7 +33,7 @@ ul{
 }
 
 ul li{
-  border: 2px red solid;
+  border: 2px black solid;
   padding: 5px;
 }
 
@@ -47,12 +47,12 @@ main{
 }
 
 header{
-  background-color: steelblue;
+  background-color: black;
   margin: 0px;
   display: inline-block;
 }
 
 footer{
-  background-color: crimson;
+  background-color: black;
   display: inline-block;
 }
