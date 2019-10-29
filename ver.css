@@ -13,7 +13,7 @@ body{
 
 nav{
   float: left;
-  border 3px red solid;
+  border: 3px  solid;
   background-color: grey;
   width: 25%;
   height: 100%;
@@ -43,7 +43,7 @@ ul li{
 }
 
 main{
-  border 3px red solid;
+  border: 3px navy blue solid;
   background-color: smoke;
   width: 75%;
   overflow: auto;
