@@ -14,7 +14,7 @@ body{
 nav{
   float: left;
   border 3px red solid;
-  background-color: gold;
+  background-color: grey;
   width: 25%;
   height: 100%;
   padding: 10px;
